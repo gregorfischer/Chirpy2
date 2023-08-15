@@ -2,6 +2,10 @@
 #  Icons from <https://fontawesome.com/>
 
 platforms:
+  - type: Edit
+    icon: "fab fa-pen"
+    link: "https://github.com/gregorfischer/Chirpy2/edit/main/URL"
+
   - type: Twitter
     icon: "fab fa-twitter"
     link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
