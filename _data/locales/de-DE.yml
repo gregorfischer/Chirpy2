@@ -39,7 +39,9 @@ copyright:
   verbose: >-
     Alle Einträge auf dieser Seite stehen, soweit nicht anders angegeben, unter der Lizenz Creative Commons Attribution 4.0 (CC BY 4.0).
 
-meta: Hosted on GitHub Pages. # Powered by :PLATFORM with :THEME theme.
+meta: <a href="https://github.com/gregorfischer/gregorfischer.github.io/edit/:PATH/:TITLE.md">Edit Page</a> 
+
+# Powered by :PLATFORM with :THEME theme.
 
 not_found:
   statment: Entschuldigung, dieser Link verweist auf keine vorhandene Ressource.
